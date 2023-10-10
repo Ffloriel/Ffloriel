@@ -5,6 +5,8 @@
 #### Sponsors 🥰
 
 [<img src="https://avatars0.githubusercontent.com/u/67109815?v=4" height="45">](tailwindcss.com)
+[<img src="https://avatars.githubusercontent.com/u/133211198?v=4" height="45">](https://www.bairesdev.com/sponsoring-open-source-projects/)
+[<img src="https://avatars.githubusercontent.com/u/235875?v=4" height="45">](https://github.com/jarrodldavis)
 
 ### Things I code with
 
